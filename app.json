@@ -4,7 +4,7 @@
   "env": {
     "API_ID": {
       "description": "Enter bot token.",
-      "value": "hjfjgfghjgfh"
+      "value": ""
     }
   }
 }
