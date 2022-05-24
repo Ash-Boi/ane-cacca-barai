@@ -4,19 +4,7 @@
   "env": {
     "API_ID": {
       "description": "Enter bot token.",
-      "value": ""
-    },
-    "API_HASH": {
-      "description": "Get this value from my.telegram.org! Please do not steal.",
-      "value": ""
-    },
-    "SESSION": {
-      "description": "Get this value from my.telegram.org! Please do not steal.",
-      "value": ""
-    },
-    "LOG_GROUP": {
-      "description": "Bot will work only for auth peoples.",
-      "value": ""
+      "value": "hjfjgfghjgfh"
     }
   }
 }
